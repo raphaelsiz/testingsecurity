@@ -1,0 +1,23 @@
+{
+  "name": "testingsecurity",
+  "version": "1.0.0",
+  "description": "just doin some testin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelsiz/testingsecurity.git"
+  },
+  "author": "mergerg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelsiz/testingsecurity/issues"
+  },
+  "homepage": "https://github.com/raphaelsiz/testingsecurity#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  }
+}
